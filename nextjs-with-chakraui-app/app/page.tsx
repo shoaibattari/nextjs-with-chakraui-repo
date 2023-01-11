@@ -7,7 +7,7 @@ export default function hello() {
   return (
     <div>
       
-    <Text fontSize='6xl' color='blue' align='center'> buttons with chakraUI</Text>
+    <Text fontSize='6xl' color='blue' align='center'> buttons and text with chakraUI</Text>
 
     
 <Stack direction='column' spacing={4} align='center'>
